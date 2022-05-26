@@ -1,0 +1,20 @@
+C:\Users\gabri\source\repos\AGrandeVolta\bin\Debug\AGrandeVolta.exe.config
+C:\Users\gabri\source\repos\AGrandeVolta\bin\Debug\AGrandeVolta.exe
+C:\Users\gabri\source\repos\AGrandeVolta\bin\Debug\AGrandeVolta.pdb
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.csprojAssemblyReference.cache
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.Properties.Resources.resources
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.csproj.GenerateResource.cache
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.csproj.CoreCompileInputs.cache
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.exe
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.pdb
+C:\Users\gabri\source\repos\AGrandeVolta\obj\Debug\AGrandeVolta.Calculadora.resources
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\bin\Debug\AGrandeVolta.exe.config
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\bin\Debug\AGrandeVolta.exe
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\bin\Debug\AGrandeVolta.pdb
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.csprojAssemblyReference.cache
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.Calculadora.resources
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.Properties.Resources.resources
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.exe
+C:\Users\gabri\Desktop\Rafael\Calculadora em C#\AGrandeVolta\obj\Debug\AGrandeVolta.pdb
